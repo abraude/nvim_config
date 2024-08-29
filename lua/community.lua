@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.note-taking.obsidian-nvim" },
